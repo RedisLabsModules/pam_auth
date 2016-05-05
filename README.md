@@ -5,11 +5,9 @@ Redis PAM Authentication module POC
 This module replaces the original Redis AUTH command with an alternative
 implementation that uses the Linux PAM facility to authenticate users.
 
-**
-This module should be used as a proof of concept only.  It provides an
+**This module should be used as a proof of concept only.  It provides an
 extreme example of how modules can extend Redis beyond the standard
-Redis Module API.
-**
+Redis Module API.**
 
 Quick start guide
 --
